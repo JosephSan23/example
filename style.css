@@ -31,6 +31,7 @@ body {
 
 .logo {
     width: 150px;
+    /* Separacion */
     margin-bottom: 48px;
     justify-self: center;
     display: none;
@@ -43,6 +44,7 @@ body {
 }
 
 .subtitle {
+    /* var funciona para llamar la variable que necesitamos */
     color: var(--very-light-pink);
     font-size: var(--md);
     font-weight: 300;
